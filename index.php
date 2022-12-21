@@ -8,7 +8,7 @@
         <div class="bg-image"></div>
 
         <div class="title">
-            <img src="./image/title.png" alt="Lollapalooza" width="800px" height="auto">
+            <img src="./image/title.png" id="title-index" alt="Lollapalooza">
             <div class="buttons">
                 <button class="btn whatis"><a href="whatis.html">What is?</a></button>
                 <button class="btn experience"><a href="experiences.html">Experiences</a></button>
@@ -40,7 +40,7 @@
         </div>
         
         <div class="logo">
-            <img src="./image/small_logo.png" alt="Lollapalooza" width="275px" height="auto">
+            <img src="./image/small_logo.png" id="logo-lollapalooza" alt="Lollapalooza">
         </div>
     </body>
 </html>
